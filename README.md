@@ -4,7 +4,7 @@ This repository contains the code and resources for predicting salaries based on
 
 ## 📋 Table of Contents
 
-- [📌 Problem Statement](#problem-statement)
+- [📌 Problem Statement](#-problem-statement)
 - [📊 Dataset](#dataset)
 - [🔍 Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [🛠️ Data Preprocessing](#data-preprocessing)
