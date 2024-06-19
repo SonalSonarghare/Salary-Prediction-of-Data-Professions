@@ -5,15 +5,15 @@ This repository contains the code and resources for predicting salaries based on
 ## 📋 Table of Contents
 
 - [📌 Problem Statement](#-problem-statement)
-- [📊 Dataset](#dataset)
-- [🔍 Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [🛠️ Data Preprocessing](#data-preprocessing)
-- [🧠 Model Development and Evaluation](#model-development-and-evaluation)
-- [🏆 Model Selection](#model-selection)
-- [💾 Model Saving and Feature Importance](#model-saving-and-feature-importance)
-- [🌐 Model Deployment](#model-deployment)
-- [📈 Conclusion](#conclusion)
-- [📞 Contact](#contact)
+- [📊 Dataset](#-dataset)
+- [🔍 Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
+- [🛠️ Data Preprocessing](#-data-preprocessing)
+- [🧠 Model Development and Evaluation](#-model-development-and-evaluation)
+- [🏆 Model Selection](#-model-selection)
+- [💾 Model Saving and Feature Importance](#-model-saving-and-feature-importance)
+- [🌐 Model Deployment](#-model-deployment)
+- [📈 Conclusion](#-conclusion)
+- [📞 Contact](#-contact)
 
 ## 📌 Problem Statement
 
